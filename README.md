@@ -16,7 +16,8 @@
 🔹 [Design-odd](https://design-odd.com) — сайт студии дизайна  
 🔹 [Vue Pizza](https://github.com/catch-a-chalk/vue-third-pizza-start-source) — pet-проект по сборке и заказу пиццы  
 
-## 📫 Ссылки:
-🔗 [Хабр](https://habr.com/ru/users/catch-a-chalk/)
-🔗 [Хабр Q&A](https://qna.habr.com/user/catch-a-chalk)
+## 📫 Контакты и ссылки:
+📧 [db.makushin@gmail.com](mailto:db.makushin@gmail.com)  
 🔗 [Telegram](https://t.me/denismakushin)  
+🔗 [Хабр](https://habr.com/ru/users/catch-a-chalk/)  
+🔗 [Хабр Q&A](https://qna.habr.com/user/catch-a-chalk)  
